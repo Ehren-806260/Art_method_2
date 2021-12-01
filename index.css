@@ -1,6 +1,9 @@
 .original{
     font-size: 1 rem;
 }
+
+.p{
+    margin: 0 auto;
 h2{
     color: deeppink;
 }
